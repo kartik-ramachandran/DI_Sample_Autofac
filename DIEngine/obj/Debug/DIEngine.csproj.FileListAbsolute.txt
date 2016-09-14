@@ -1,0 +1,7 @@
+D:\ProgramPratice\DISample\DIEngine\bin\Debug\DIEngine.dll
+D:\ProgramPratice\DISample\DIEngine\bin\Debug\DIEngine.pdb
+D:\ProgramPratice\DISample\DIEngine\bin\Debug\Autofac.dll
+D:\ProgramPratice\DISample\DIEngine\bin\Debug\Autofac.xml
+D:\ProgramPratice\DISample\DIEngine\obj\Debug\DIEngine.dll
+D:\ProgramPratice\DISample\DIEngine\obj\Debug\DIEngine.pdb
+D:\ProgramPratice\DISample\DIEngine\obj\Debug\DIEngine.csprojResolveAssemblyReference.cache

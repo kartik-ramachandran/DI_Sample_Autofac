@@ -1,0 +1,7 @@
+D:\ProgramPratice\DISample\Helper\bin\Debug\Helper.dll
+D:\ProgramPratice\DISample\Helper\bin\Debug\Helper.pdb
+D:\ProgramPratice\DISample\Helper\obj\Debug\Helper.csprojResolveAssemblyReference.cache
+D:\ProgramPratice\DISample\Helper\obj\Debug\Helper.dll
+D:\ProgramPratice\DISample\Helper\obj\Debug\Helper.pdb
+D:\ProgramPratice\DISample\Helper\bin\Debug\Autofac.dll
+D:\ProgramPratice\DISample\Helper\bin\Debug\Autofac.xml
